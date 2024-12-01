@@ -1,0 +1,18 @@
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\bin\Debug\net8.0\PB503 Namespace, ClassLibrary homework.exe
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\bin\Debug\net8.0\PB503 Namespace, ClassLibrary homework.deps.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\bin\Debug\net8.0\PB503 Namespace, ClassLibrary homework.runtimeconfig.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\bin\Debug\net8.0\PB503 Namespace, ClassLibrary homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\bin\Debug\net8.0\PB503 Namespace, ClassLibrary homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Namespace, ClassLibrary homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Namespace, ClassLibrary homework.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Namespace, ClassLibrary homework.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Namespace, ClassLibrary homework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Namespace, ClassLibrary homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\refint\PB503 Namespace, ClassLibrary homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Namespace, ClassLibrary homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Namespace, ClassLibrary homework.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\ref\PB503 Namespace, ClassLibrary homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\bin\Debug\net8.0\PB503Helper.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\bin\Debug\net8.0\PB503Helper.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Namespace, ClassLibrary homework.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503 Namespace, ClassLibrary homework\obj\Debug\net8.0\PB503 Na.DD5D85C8.Up2Date

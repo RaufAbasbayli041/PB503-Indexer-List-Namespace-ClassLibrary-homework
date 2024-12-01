@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\bin\Debug\net8.0\PB503Helper.deps.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\bin\Debug\net8.0\PB503Helper.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\bin\Debug\net8.0\PB503Helper.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\obj\Debug\net8.0\PB503Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\obj\Debug\net8.0\PB503Helper.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\obj\Debug\net8.0\PB503Helper.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\obj\Debug\net8.0\PB503Helper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\obj\Debug\net8.0\PB503Helper.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\obj\Debug\net8.0\refint\PB503Helper.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\obj\Debug\net8.0\PB503Helper.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\01.12.2024\PB503 Namespace, ClassLibrary homework\PB503Helper\obj\Debug\net8.0\ref\PB503Helper.dll
